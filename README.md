@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **My blog**
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about **Suggestions of my blog**
+- 📫 How to reach me: **Email (kage.public@outlook.com)**, **QQ(2916570051)**
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Nope.
+
 <!--
 **kage-shadows/kage-shadows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
