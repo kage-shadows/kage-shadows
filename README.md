@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **My blog**
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **Suggestions of my blog**
-- 📫 How to reach me: **Email (kage.public@outlook.com)**, **QQ(2916570051)**
+- 📫 How to reach me: **Email (kage.public@outlook.com)**, **QQ (2916570051)**
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Nope.
 
